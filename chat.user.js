@@ -1,14 +1,9 @@
 // ==UserScript==
-// @name         Mod Chat In Game
-// @namespace    http://tampermonkey.net/
-// @updateURL    https://github.com/mcgrogan91/TagProScripts/raw/master/chat.user.js
-// @version      0.1
-// @description  Lets you chat as a mod in-game
-// @author       wut
-// @contributor   NewCompte
-// @include       http://tangent.jukejuice.com*
-// @include       http://tagpro-*.koalabeast.com*
-// @grant        none
+// @name          wuts Mod typer
+// @version       99
+// @description   Type as Mod while playing
+// @include       ://.koalabeast.com*
+// @author        wut
 // ==/UserScript==
 
-tagpro.keys.chatAsMod = [77];
+ tagpro.keys.chatAsMod = [77];
